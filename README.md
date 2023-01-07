@@ -1,2 +1,2 @@
 # CSE_6040_notebooks
-Homework and practice for computing for data analysis (Georgia Tech)
+Homework and practice for Georgia Tech courses computing for data analysis
